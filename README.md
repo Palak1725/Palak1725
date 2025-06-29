@@ -1,13 +1,13 @@
 <!-- ════════════ 👑 PROFILE BANNER ════════════ -->
 
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fadityadomle8b2cc.png?alt=media" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=CEO%20Palak%20on%20GitHub&fontAlign=center&fontColor=ffffff&colorGradient=0xffb6c1,0x800080&fontSize=45" />
 </p>
 
 <!-- ════════════ ⌨️ TYPING ANIMATION HEADER ════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=CEO+Palak+on+GitHub!;Coding+Practical+Tools+%7C+DSA%2C+ML%2C+and+Cloud;Building+User-Centric+Python+Projects.;Making+Tech+Feel+Effortless+%26+Impactful." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=CEO+Palak+on+GitHub!;Coding+Practical+Tools+%7C+DSA%2C+ML%2C+Cloud;Building+User-Centric+Python+Projects.;Making+Tech+Feel+Effortless+%26+Impactful." />
 </p>
 
 <!-- ════════════ 🤝 SOCIAL LINKS ════════════ -->
@@ -25,7 +25,7 @@
 
 ## 🪷 Who am I?
 
-<img align="right" width="350" alt="coding-gif" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" />
+<img align="right" width="350" alt="coding-gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 CSE Undergrad | 4th Sem | MAKAUT  
 - 🛠️ Building: Real-world tools using Python, Tkinter, APIs  
@@ -106,4 +106,4 @@
 
 ---
 
-<!-- 👑 Crafted for a future Google CEO by CEO Palak herself -->
+<!-- 👑 Crafted with pride by CEO Palak | No snakes, no trails – just imp
